@@ -1,0 +1,2 @@
+# rabbitmqnotes
+rabbitmq notes
